@@ -1,0 +1,323 @@
+2025-06-17 14:26:37,316 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:22:48,738 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:39:44,850 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:39:44,850 - INFO - begin...
+2025-06-17 15:43:12,306 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:43:12,306 - INFO - begin...
+2025-06-17 15:43:34,378 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:43:34,378 - INFO - begin...
+2025-06-17 15:45:25,003 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:45:25,003 - INFO - begin...
+2025-06-17 15:57:56,420 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 15:57:56,420 - INFO - begin...
+2025-06-17 16:19:06,495 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 16:19:06,495 - INFO - begin...
+2025-06-17 17:20:12,330 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 17:20:12,330 - INFO - begin...
+2025-06-17 17:23:28,970 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-17 17:23:28,970 - INFO - begin...
+2025-06-18 09:33:26,104 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 09:33:26,104 - INFO - begin...
+2025-06-18 09:36:02,140 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 09:36:02,140 - INFO - begin...
+2025-06-18 09:36:02,534 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 09:36:02,534 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 09:36:02,534 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 09:36:02,534 - INFO - Starting main function
+2025-06-18 09:36:02,568 - INFO - Detected hierarchy depth = 0
+2025-06-18 09:36:02,569 - INFO - Loaded 2 top-level classes.
+2025-06-18 09:41:58,185 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 09:41:58,186 - INFO - begin...
+2025-06-18 09:41:58,572 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 09:41:58,572 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 09:41:58,572 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 09:41:58,572 - INFO - Starting main function
+2025-06-18 09:41:58,611 - INFO - Detected hierarchy depth = 0
+2025-06-18 09:41:58,611 - INFO - Loaded 2 top-level classes.
+2025-06-18 10:16:03,901 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 10:16:03,902 - INFO - begin...
+2025-06-18 10:16:04,501 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 10:16:04,501 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 10:16:04,502 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 10:16:04,502 - INFO - Starting main function
+2025-06-18 10:16:04,531 - INFO - Detected hierarchy depth = 0
+2025-06-18 10:16:04,531 - INFO - Loaded 2 top-level classes.
+2025-06-18 10:28:58,597 - WARNING - Error while downloading from https://cdn-lfs.hf-mirror.com/repos/ba/2d/ba2dd598f0c0676495b9ca2d80a6b5f2ab243593480000d612059cc4840bc9b6/051bf4b62a25429f4d542d11ec0c07a4ac1aac91003d3bf301133c6913008cbf?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1750216567&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDIxNjU2N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy9iYS8yZC9iYTJkZDU5OGYwYzA2NzY0OTViOWNhMmQ4MGE2YjVmMmFiMjQzNTkzNDgwMDAwZDYxMjA1OWNjNDg0MGJjOWI2LzA1MWJmNGI2MmEyNTQyOWY0ZDU0MmQxMWVjMGMwN2E0YWMxYWFjOTEwMDNkM2JmMzAxMTMzYzY5MTMwMDhjYmY%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=EZrDQRJok7nIB00q8u5dA8Gl12RQHSJVD-B6gXAf6KnzriABbvWZoQZ9uLZWC0qRHbVMwVmxboM95qW%7EPBpzBlRU3d4jdpW9ttJZ322AtgbBpm9E79OLOlK0WiVuMndavCeMOdeTuFUZ3Oc86M8lraFsYo%7ELCjmnGVSYBf9kcz8%7EMSceEazhJvrNeMOYc1fE41cKA8OulqaIRjHmRJdBsJWB68sVg1p0AbHYsvajqV4WvK155Elrn8223R6RvEVfGXzGMGGZySP5ACzsm7aMSz5yl4EjH5-8zweOMD2Qm1CWksfhQNl9%7EF1qxjyp%7Ew4CVrIU2p8WtBDHESTNRpx26w__&Key-Pair-Id=K3RPWS32NSSJCE: HTTPSConnectionPool(host='cdn-lfs.hf-mirror.com', port=443): Read timed out.
+Trying to resume download...
+2025-06-18 10:38:19,267 - INFO - Splitting image...
+2025-06-18 10:38:19,352 - INFO - Split image into 9 chunks.
+2025-06-18 10:41:10,977 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 10:41:10,978 - INFO - begin...
+2025-06-18 10:41:11,359 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 10:41:11,359 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 10:41:11,360 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 10:41:11,360 - INFO - Starting main function
+2025-06-18 10:41:11,396 - INFO - Detected hierarchy depth = 0
+2025-06-18 10:41:11,396 - INFO - Loaded 2 top-level classes.
+2025-06-18 10:45:31,901 - INFO - Splitting image...
+2025-06-18 10:45:31,957 - INFO - Split image into 9 chunks.
+2025-06-18 10:45:52,392 - INFO - Done.
+2025-06-18 15:22:43,865 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 15:22:43,865 - INFO - begin...
+2025-06-18 15:23:55,746 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 15:23:55,746 - INFO - begin...
+2025-06-18 15:23:56,335 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 15:23:56,335 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 15:23:56,335 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 15:23:56,335 - INFO - Starting main function
+2025-06-18 15:23:56,366 - INFO - Detected hierarchy depth = 0
+2025-06-18 15:23:56,366 - INFO - Loaded 2 top-level classes.
+2025-06-18 15:56:44,610 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 15:56:44,610 - INFO - begin...
+2025-06-18 15:56:44,999 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 15:56:44,999 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 15:56:45,000 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 15:56:45,000 - INFO - Starting main function
+2025-06-18 15:56:45,032 - INFO - Detected hierarchy depth = 0
+2025-06-18 15:56:45,032 - INFO - Loaded 2 top-level classes.
+2025-06-18 16:14:26,997 - INFO - Splitting image...
+2025-06-18 16:14:27,048 - INFO - Split image into 1 chunks.
+2025-06-18 16:21:42,706 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 16:21:42,706 - INFO - begin...
+2025-06-18 16:21:43,223 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 16:21:43,223 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 16:21:43,223 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 16:21:43,224 - INFO - Starting main function
+2025-06-18 16:21:43,257 - INFO - Detected hierarchy depth = 0
+2025-06-18 16:21:43,257 - INFO - Loaded 2 top-level classes.
+2025-06-18 16:22:11,571 - INFO - Splitting image...
+2025-06-18 16:22:11,624 - INFO - Split image into 1 chunks.
+2025-06-18 16:24:32,788 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 16:24:32,788 - INFO - begin...
+2025-06-18 16:24:33,319 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 16:24:33,319 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 16:24:33,320 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 16:24:33,320 - INFO - Starting main function
+2025-06-18 16:24:33,352 - INFO - Detected hierarchy depth = 0
+2025-06-18 16:24:33,352 - INFO - Loaded 2 top-level classes.
+2025-06-18 16:25:01,736 - INFO - Splitting image...
+2025-06-18 16:25:01,789 - INFO - Split image into 9 chunks.
+2025-06-18 16:43:47,247 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 16:43:47,247 - INFO - begin...
+2025-06-18 16:43:47,829 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 16:43:47,829 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 16:43:47,829 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 16:43:47,829 - INFO - Starting main function
+2025-06-18 16:43:47,900 - INFO - Detected hierarchy depth = 0
+2025-06-18 16:43:47,900 - INFO - Loaded 2 top-level classes.
+2025-06-18 17:42:12,040 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 17:42:12,040 - INFO - begin...
+2025-06-18 17:42:12,624 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 17:42:12,625 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 17:42:12,625 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 17:42:12,625 - INFO - Starting main function
+2025-06-18 17:42:12,653 - INFO - Detected hierarchy depth = 0
+2025-06-18 17:42:12,653 - INFO - Loaded 2 top-level classes.
+2025-06-18 18:01:03,959 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 18:01:03,959 - INFO - begin...
+2025-06-18 18:01:04,890 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 18:01:04,890 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 18:01:04,891 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 18:01:04,891 - INFO - Starting main function
+2025-06-18 18:01:04,935 - INFO - Detected hierarchy depth = 0
+2025-06-18 18:01:04,935 - INFO - Loaded 2 top-level classes.
+2025-06-18 18:17:24,580 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-18 18:17:24,580 - INFO - begin...
+2025-06-18 18:17:25,216 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-18 18:17:25,216 - INFO - Logeding in to Hugging Face Hub.
+2025-06-18 18:17:25,216 - INFO - Loged in to Hugging Face Hub.
+2025-06-18 18:17:25,217 - INFO - Starting main function
+2025-06-18 18:17:25,759 - INFO - Detected hierarchy depth = 0
+2025-06-18 18:17:25,760 - INFO - Loaded 2 top-level classes.
+2025-06-20 08:17:55,939 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 08:17:55,939 - INFO - begin...
+2025-06-20 08:17:56,574 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 08:17:56,574 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 08:17:56,574 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 08:17:56,574 - INFO - Starting main function
+2025-06-20 08:17:56,906 - INFO - Detected hierarchy depth = 0
+2025-06-20 08:17:56,906 - INFO - Loaded 2 top-level classes.
+2025-06-20 08:18:28,776 - INFO - Splitting image...
+2025-06-20 08:18:28,833 - INFO - Split image into 9 chunks.
+2025-06-20 08:25:29,980 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 08:25:29,981 - INFO - begin...
+2025-06-20 08:25:30,433 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 08:25:30,433 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 08:25:30,434 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 08:25:30,434 - INFO - Starting main function
+2025-06-20 08:25:30,706 - INFO - Detected hierarchy depth = 0
+2025-06-20 08:25:30,706 - INFO - Loaded 2 top-level classes.
+2025-06-20 08:26:03,018 - INFO - Splitting image...
+2025-06-20 08:26:03,070 - INFO - Split image into 9 chunks.
+2025-06-20 08:26:43,920 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 08:26:43,920 - INFO - begin...
+2025-06-20 08:26:44,381 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 08:26:44,381 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 08:26:44,382 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 08:26:44,382 - INFO - Starting main function
+2025-06-20 08:26:44,412 - INFO - Detected hierarchy depth = 0
+2025-06-20 08:26:44,412 - INFO - Loaded 2 top-level classes.
+2025-06-20 08:27:15,485 - INFO - Splitting image...
+2025-06-20 08:27:15,537 - INFO - Split image into 9 chunks.
+2025-06-20 08:54:23,054 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 08:54:23,054 - INFO - begin...
+2025-06-20 08:54:23,502 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 08:54:23,502 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 08:54:23,503 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 08:54:23,503 - INFO - Starting main function
+2025-06-20 08:54:23,533 - INFO - Detected hierarchy depth = 0
+2025-06-20 08:54:23,533 - INFO - Loaded 2 top-level classes.
+2025-06-20 08:54:54,449 - INFO - Splitting image...
+2025-06-20 08:54:54,503 - INFO - Split image into 9 chunks.
+2025-06-20 09:03:04,090 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 09:03:04,090 - INFO - begin...
+2025-06-20 09:03:04,544 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 09:03:04,544 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 09:03:04,544 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 09:03:04,544 - INFO - Starting main function
+2025-06-20 09:03:04,633 - INFO - Detected hierarchy depth = 0
+2025-06-20 09:03:04,634 - INFO - Loaded 2 top-level classes.
+2025-06-20 09:03:36,522 - INFO - Splitting image...
+2025-06-20 09:03:36,573 - INFO - Split image into 9 chunks.
+2025-06-20 09:08:40,322 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 09:08:40,322 - INFO - begin...
+2025-06-20 09:08:41,347 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 09:08:41,348 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 09:08:41,348 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 09:08:41,348 - INFO - Starting main function
+2025-06-20 09:08:41,376 - INFO - Detected hierarchy depth = 0
+2025-06-20 09:08:41,376 - INFO - Loaded 2 top-level classes.
+2025-06-20 09:09:15,759 - INFO - Splitting image...
+2025-06-20 09:09:15,816 - INFO - Split image into 9 chunks.
+2025-06-20 09:17:55,033 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 09:17:55,033 - INFO - begin...
+2025-06-20 09:17:55,485 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 09:17:55,485 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 09:17:55,486 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 09:17:55,486 - INFO - Starting main function
+2025-06-20 09:17:55,514 - INFO - Detected hierarchy depth = 0
+2025-06-20 09:17:55,514 - INFO - Loaded 2 top-level classes.
+2025-06-20 09:20:56,731 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 09:20:56,731 - INFO - begin...
+2025-06-20 09:20:57,240 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 09:20:57,240 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 09:20:57,241 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 09:20:57,241 - INFO - Starting main function
+2025-06-20 09:20:57,516 - INFO - Detected hierarchy depth = 0
+2025-06-20 09:20:57,516 - INFO - Loaded 2 top-level classes.
+2025-06-20 09:21:29,931 - INFO - Splitting image...
+2025-06-20 09:21:29,942 - INFO - Split image into 1 chunks.
+2025-06-20 09:27:24,891 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 09:27:24,892 - INFO - begin...
+2025-06-20 09:27:25,457 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 09:27:25,457 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 09:27:25,458 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 09:27:25,458 - INFO - Starting main function
+2025-06-20 09:27:25,494 - INFO - Detected hierarchy depth = 0
+2025-06-20 09:27:25,494 - INFO - Loaded 2 top-level classes.
+2025-06-20 09:27:58,824 - INFO - Splitting image...
+2025-06-20 09:27:58,836 - INFO - Split image into 1 chunks.
+2025-06-20 14:12:15,844 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:12:15,844 - INFO - begin...
+2025-06-20 14:12:56,740 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:12:56,740 - INFO - begin...
+2025-06-20 14:12:57,317 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:12:57,318 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:12:57,318 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:12:57,318 - INFO - Starting main function
+2025-06-20 14:13:55,192 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:13:55,192 - INFO - begin...
+2025-06-20 14:13:56,251 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:13:56,251 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:13:56,251 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:13:56,251 - INFO - Starting main function
+2025-06-20 14:18:39,579 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:18:39,579 - INFO - begin...
+2025-06-20 14:18:40,037 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:18:40,037 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:18:40,038 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:18:40,038 - INFO - Starting main function
+2025-06-20 14:18:40,067 - INFO - Detected hierarchy depth = 0
+2025-06-20 14:18:40,067 - INFO - Loaded 2 top-level classes.
+2025-06-20 14:19:13,399 - INFO - Splitting image...
+2025-06-20 14:19:13,411 - INFO - Split image into 1 chunks.
+2025-06-20 14:24:17,317 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:24:17,318 - INFO - begin...
+2025-06-20 14:24:17,793 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:24:17,793 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:24:17,793 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:24:17,794 - INFO - Starting main function
+2025-06-20 14:24:17,828 - INFO - Detected hierarchy depth = 0
+2025-06-20 14:24:17,828 - INFO - Loaded 2 top-level classes.
+2025-06-20 14:24:48,375 - INFO - Splitting image...
+2025-06-20 14:24:48,385 - INFO - Split image into 9 chunks.
+2025-06-20 14:29:36,729 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:29:36,729 - INFO - begin...
+2025-06-20 14:29:37,226 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:29:37,226 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:29:37,226 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:29:37,227 - INFO - Starting main function
+2025-06-20 14:29:37,423 - INFO - Detected hierarchy depth = 0
+2025-06-20 14:29:37,424 - INFO - Loaded 2 top-level classes.
+2025-06-20 14:30:08,700 - INFO - Splitting image...
+2025-06-20 14:30:08,711 - INFO - Split image into 9 chunks.
+2025-06-20 14:34:57,404 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:34:57,404 - INFO - begin...
+2025-06-20 14:34:57,865 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:34:57,865 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:34:57,865 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:34:57,865 - INFO - Starting main function
+2025-06-20 14:34:58,018 - INFO - Detected hierarchy depth = 0
+2025-06-20 14:34:58,018 - INFO - Loaded 2 top-level classes.
+2025-06-20 14:40:54,426 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 14:40:54,426 - INFO - begin...
+2025-06-20 14:40:54,891 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 14:40:54,891 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 14:40:54,891 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 14:40:54,891 - INFO - Starting main function
+2025-06-20 14:40:54,923 - INFO - Detected hierarchy depth = 0
+2025-06-20 14:40:54,923 - INFO - Loaded 2 top-level classes.
+2025-06-20 15:16:08,104 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 15:16:08,104 - INFO - begin...
+2025-06-20 15:16:08,710 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 15:16:08,710 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 15:16:08,710 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 15:16:08,710 - INFO - Starting main function
+2025-06-20 15:16:08,743 - INFO - Detected hierarchy depth = 0
+2025-06-20 15:16:08,743 - INFO - Loaded 2 top-level classes.
+2025-06-20 15:36:05,937 - INFO - Splitting image...
+2025-06-20 15:36:05,948 - INFO - Split image into 9 chunks.
+2025-06-20 15:36:29,186 - INFO - Done.
+2025-06-20 16:01:52,152 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 16:01:52,152 - INFO - begin...
+2025-06-20 16:01:52,597 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 16:01:52,597 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 16:01:52,597 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 16:01:52,597 - INFO - Starting main function
+2025-06-20 16:01:52,630 - INFO - Detected hierarchy depth = 0
+2025-06-20 16:01:52,630 - INFO - Loaded 2 top-level classes.
+2025-06-20 16:02:15,604 - INFO - Splitting image...
+2025-06-20 16:02:15,615 - INFO - Split image into 9 chunks.
+2025-06-20 16:02:38,753 - INFO - Done.
+2025-06-20 16:04:06,200 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 16:04:06,200 - INFO - begin...
+2025-06-20 16:04:06,602 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 16:04:06,603 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 16:04:06,603 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 16:04:06,603 - INFO - Starting main function
+2025-06-20 16:04:06,641 - INFO - Detected hierarchy depth = 0
+2025-06-20 16:04:06,641 - INFO - Loaded 2 top-level classes.
+2025-06-20 16:04:29,703 - INFO - Splitting image...
+2025-06-20 16:04:29,713 - INFO - Split image into 1 chunks.
+2025-06-20 16:04:36,952 - INFO - Done.
+2025-06-20 16:13:17,165 - WARNING - No .env file found. Make sure to set environment variables manually.
+2025-06-20 16:13:17,165 - INFO - begin...
+2025-06-20 16:13:18,065 - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-06-20 16:13:18,066 - INFO - Logeding in to Hugging Face Hub.
+2025-06-20 16:13:18,066 - INFO - Loged in to Hugging Face Hub.
+2025-06-20 16:13:18,066 - INFO - Starting main function
+2025-06-20 16:13:18,098 - INFO - Detected hierarchy depth = 0
+2025-06-20 16:13:18,099 - INFO - Loaded 2 top-level classes.
+2025-06-20 16:13:42,360 - INFO - Splitting image...
+2025-06-20 16:13:42,427 - INFO - Split image into 9 chunks.
+2025-06-20 16:14:35,439 - INFO - Done.

@@ -42,13 +42,16 @@ else:
     logging.warning(
         "No .env file found. Make sure to set environment variables manually."
     )
+logging.info("begin...")
 
 login(token=os.environ.get("HF_TOKEN", ""))
+logging.info("Logeding in to Hugging Face Hub.")
 CLIP_MODEL_NAME = os.environ.get("CLIP_MODEL_NAME", "openai/clip-vit-large-patch14")
-
+logging.info("Loged in to Hugging Face Hub.")
 
 def split_image(image_path, split_height_by, split_width_by):
     # unchanged...
+    logging.info("Splitting image...")
     with rasterio.open(image_path) as src:
         image = src.read()
         if len(image.shape) == 3:
@@ -87,10 +90,12 @@ def split_image(image_path, split_height_by, split_width_by):
             coords_dict_list.append(
                 {"row": i, "col": j, "left": left, "upper": upper, "right": right, "lower": lower}
             )
+    logging.info(f"Split image into {len(chunks)} chunks.") # Save chunks to disk
     return chunks, coords_dict_list
 
 
 def init_openai_client(variant):
+    logging.info(f"Initializing OpenAI client for variant {variant}.") 
     if variant.lower() == "azure":
         client = AzureOpenAI(
             api_version=os.environ.get(
@@ -153,6 +158,7 @@ def fallback_label(label, classes, chunk, filename, coords, clip_classifier, arg
     return label
 
 def main():
+    logging.info("Starting main function")
     parser = argparse.ArgumentParser(
         description="Label images using a vision LLM and a text classifier."
     )
