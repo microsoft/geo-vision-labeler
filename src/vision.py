@@ -3,6 +3,7 @@
 
 import os
 import re
+import torch
 
 from PIL import Image
 
@@ -24,7 +25,6 @@ def apply_test_time_augmentation(image, test_time_augmentation):
         else:
             raise ValueError(f"Unknown test time augmentation strategy: {strategy}")
     return images
-
 
 def describe_image(
     image_chunk,
@@ -60,7 +60,7 @@ def describe_image(
                 {
                     "role": "user",
                     "content": [
-                        {"type": "image"},
+                        {"type": "image", "image": "file:///home/ps/rzm/geo-vision-labeler/data/images/{filename}.jpg"},
                         {"type": "text", "text": f"{context}. "},
                     ],
                 }
@@ -84,7 +84,7 @@ def describe_image(
             input_text = processor.apply_chat_template(
                 messages, add_generation_prompt=True
             )
-
+            
             inputs = processor(
                 image, input_text, add_special_tokens=False, return_tensors="pt"
             ).to(model.device)
@@ -118,7 +118,7 @@ def describe_image(
                     f"Error generating text: {e}. "
                     f"Retry with the --apply_vision_template flag."
                 )
-
+                
         generated_text = processor.batch_decode(
             generated_ids, skip_special_tokens=True
         )[0]
