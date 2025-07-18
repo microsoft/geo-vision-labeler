@@ -20,7 +20,6 @@ from transformers import (
     pipeline,
 )
 from vision_agent import describe_image, classify_with_huggingface
-from sklearn.metrics import accuracy_score, precision_score, recall_score
 
 
 logging.basicConfig(
@@ -231,19 +230,11 @@ def main():
         )
         label_list.append(label)
     
-    #print(label_list)
-
-    # 保存结果到带时间戳的文件中
-    save_results_with_timestamp(image_labels_shuffled, label_list)
-
-    accuracy = accuracy_score(image_labels_shuffled, label_list)
-    precision = precision_score(image_labels_shuffled, label_list, pos_label="目标区域") 
-    recall = recall_score(image_labels_shuffled, label_list, pos_label="目标区域")
-
-    print(f"Acc: {accuracy},Pre:{precision},Re:{recall}")
-    
+    #print(label_list)    
     with open(args.output_file, "w", encoding="utf-8") as file:
         file.writelines(f"{item}\n" for item in desc_list)
+    
+    print(f"End!\n")
 
 if __name__ == '__main__':
     main()
