@@ -9,7 +9,7 @@ setup(
     install_requires=[
         "Pillow==11.1.0",
         "rasterio==1.4.3",
-        "transformers==4.50.0",
+        "transformers==5.0.0rc3",
         "torch==2.7.0",
         "tqdm==4.67.1",
         "numpy==2.2.4",
