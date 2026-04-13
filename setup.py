@@ -7,7 +7,7 @@ setup(
     author="Gilles Quentin Hacheme",
     packages=find_packages(),
     install_requires=[
-        "Pillow==11.1.0",
+        "Pillow==12.2.0",
         "rasterio==1.4.3",
         "transformers==4.50.0",
         "torch==2.7.0",
