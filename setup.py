@@ -16,7 +16,7 @@ setup(
         "openai==1.65.2",
         "torchvision==0.22.0",
         "python-dotenv==0.9.9",
-        "pytest==8.3.5",
+        "pytest==9.0.3",
         "pandas==2.2.3",
         "pyyaml==6.0.2"
     ],
