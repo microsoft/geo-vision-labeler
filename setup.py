@@ -15,7 +15,7 @@ setup(
         "numpy==2.2.4",
         "openai==1.65.2",
         "torchvision==0.22.0",
-        "python-dotenv==0.9.9",
+        "python-dotenv==1.2.2",
         "pytest==8.3.5",
         "pandas==2.2.3",
         "pyyaml==6.0.2"
